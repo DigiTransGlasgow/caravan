@@ -22,7 +22,7 @@ layout: default
 * [Post LAB Reflection (Akshay Roongta)](2_03.html)
 * [Museums Without Walls (Pete Collard)](2_04.html)
 * [Camera Things (Sara Legg)](2_05.html)
-* [Immersions (Laura de Reynal)](2_06.hmtl)
+* [Immersions (Laura de Reynal)](2_06.html)
 * [Story of a Caravan Journey (Reuben Jacob)](2_07.html)
 
 ## 3. Making Something
