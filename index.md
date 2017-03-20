@@ -2,6 +2,35 @@
 layout: default
 ---
 
+<p>
+          <br/>The UnBox platform offers a space
+          <br/>for experiential learning that
+          <br/>builds on emerging contexts and
+          <br/>cases of multidisciplinary, creative
+          <br/>collaborations that are rooted in
+          <br/>people-centric approaches.
+<br/>
+          <br/>Incepted as an annual festival
+          <br/>in India in 2011, and a fellowship programme
+          <br/>since 2012, UnBox has prompted
+          <br/>new thought and partnerships at the
+          <br/>intersections of design, art, culture,
+          <br/>social transformation and enterprise.
+<br/>
+          <br/>The UnBox LABS provide a form of
+          <br/>‘controlled experiments’ - in harnessing
+          <br/>ideas within collaborative, people-
+          <br/>centered settings. We believe this
+          <br/>approach to be essential for driving
+          <br/>sustainable and inclusive resolutions
+          <br/>to the complexities that our collective
+          <br/>futures will throw up.
+<br/>
+          <br/>The models of collaboration that
+          <br/>the labs seek to fosters are new and
+          <br/>experimental.
+</p>
+
 ## Introduction
 
 * [A brief history of Caravanserais (Angus Stewart)](01.html)
