@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="jumbotron">The UnBox platform offers a space for experiential learning that builds on emerging contexts and cases of multidisciplinary, creative collaborations that are rooted in people-centric approaches.
+<div class="jumbotron"><p>The UnBox platform offers a space for experiential learning that builds on emerging contexts and cases of multidisciplinary, creative collaborations that are rooted in people-centric approaches.
 <br/>
 <br/>
 Incepted as an annual festival in India in 2011, and a fellowship programme since 2012, UnBox has prompted new thought and partnerships at the intersections of design, art, culture, social transformation and enterprise.
@@ -11,7 +11,7 @@ Incepted as an annual festival in India in 2011, and a fellowship programme sinc
 The UnBox LABS provide a form of ‘controlled experiments’ - in harnessing ideas within collaborative, people- centered settings. We believe this approach to be essential for driving sustainable and inclusive resolutions to the complexities that our collective futures will throw up.
 <br/>
 <br/>
-The models of collaboration that the labs seek to fosters are new and experimental.</div>
+The models of collaboration that the labs seek to fosters are new and experimental.</p></div>
 
 ## Introduction
 
