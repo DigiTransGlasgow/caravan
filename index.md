@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<p>The UnBox platform offers a space for experiential learning that builds on emerging contexts and cases of multidisciplinary, creative collaborations that are rooted in people-centric approaches.
+<br/>
+Incepted as an annual festival in India in 2011, and a fellowship programme since 2012, UnBox has prompted new thought and partnerships at the intersections of design, art, culture, social transformation and enterprise.
+<br/>
+The UnBox LABS provide a form of ‘controlled experiments’ - in harnessing ideas within collaborative, people- centered settings. We believe this approach to be essential for driving sustainable and inclusive resolutions to the complexities that our collective futures will throw up.
+<br/>
+The models of collaboration that the labs seek to fosters are new and experimental.
+</p>
+
 ## Introduction
 
 * [A brief history of Caravanserais (Angus Stewart)](01.html)
@@ -47,5 +56,10 @@ layout: default
 
 ## 5. The Ending
 
+<<<<<<< HEAD
 1. [A Quest in Fog Juggling (Jon Rogers)](5_01.html)
 2. [What is a Chai Gate? (A few people)](5_02.html)
+=======
+* [A Quest in Fog Juggling (Jon Rogers)](5_01.html)
+* [What is a Chai Gate? (A few people)](5_02.html)
+>>>>>>> origin/master
