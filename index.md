@@ -45,7 +45,7 @@ The models of collaboration that the labs seek to fosters are new and experiment
 5. [Diyas Thinking Through Making (Jayne Wallace)](3_05.html)
 6. [Unbox Redux (Gary Stewart)](3_06.html)
 7. [Finding Chemistry: Clay, Metal, Leather (Sean Kingsley & Jayne Wallace)](3_07.html)
-8. [Excepts from a Diary of a Journey, 3PM Daily (Irini Papadimitriou Kingsley)](3.08.html)
+8. [Excepts from a Diary of a Journey, 3PM Daily (Irini Papadimitriou Kingsley)](3_08.html)
 
 
 ## 4. Digital Futures / Future Digital
@@ -58,10 +58,5 @@ The models of collaboration that the labs seek to fosters are new and experiment
 
 ## 5. The Ending
 
-<<<<<<< HEAD
 1. [A Quest in Fog Juggling (Jon Rogers)](5_01.html)
 2. [What is a Chai Gate? (A few people)](5_02.html)
-=======
-* [A Quest in Fog Juggling (Jon Rogers)](5_01.html)
-* [What is a Chai Gate? (A few people)](5_02.html)
->>>>>>> origin/master
