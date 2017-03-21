@@ -3,48 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
-#panel, #flip1 {
-    padding: 5px;
-    text-align: left;
-		cursor: pointer;
-    // background-color: #e5eecc;
-    // border: solid 1px #c3c3c3;
-}
+.ui-accordion-header {
 
-#panel, #flip2 {
-    padding: 5px;
-    text-align: left;
-		cursor: pointer;
-    // background-color: #e5eecc;
-    // border: solid 1px #c3c3c3;
-}
+  font-weight: bold;
 
-#panel, #flip3 {
-    padding: 5px;
-    text-align: left;
-		cursor: pointer;
-    // background-color: #e5eecc;
-    // border: solid 1px #c3c3c3;
-}
-
-#panel, #flip4 {
-    padding: 5px;
-    text-align: left;
-		cursor: pointer;
-    // background-color: #e5eecc;
-    // border: solid 1px #c3c3c3;
-}
-
-#panel, #flip5 {
-    padding: 5px;
-    text-align: left;
-		cursor: pointer;
-    // background-color: #e5eecc;
-    // border: solid 1px #c3c3c3;
-}
-#panel {
-    padding: 50px;
-    display: none;
 }
 
 p {
