@@ -11,21 +11,20 @@ The UnBox LABS provide a form of ‘controlled experiments’ - in harnessing id
 The models of collaboration that the labs seek to fosters are new and experimental.</p></div>
 
 
-## Why a caravan
-_Babitha George_
+## A brief history of Caravanserais
+_Angus Stewart_
 
-UnBox is a platform that showcases multi-disciplinary projects and conversations. We have explored multiple formats over the years. And much of UnBox’s evolution has been through conversations and collaborations with friends and partners across the world.
+The English word Caravanserai, comes from a Turkish original, Kervansaray, which means “caravan-palace”. Strangely, the Turks call such a place a “khan”, not to be confused with the Mongol word “khan’ that means ‘king’.
 
-In its previous edition in 2014, the UnBox LABS brought together a diverse bunch of participants to organically form teams and evolve projects together. This year, we wanted to bring together a group of friends and partners (old and new) to spend two weeks together at the beautiful National Institute of Design (NID) campus, in the city of Ahmedabad to seed dialogues and ideas that could be built upon and evolve further in the coming months and years. This change in format was brought upon by the realisation that we want to free the LABS from the restrictions of speci c time and people - to open it up to a slower, more on- going process and to continue inviting people into its fold.
+A kervansaray would be a place like a big walled castle for merchants.  In fact, archaeologists sometimes find it tricky to tell the two apart—as at Aqaba in Jordan, when it may be that the site shifted between kervansaray and Ottoman army fortress.
 
-We deliberated for a while about what this edition of the LABS ought to be called. After toying with a number of options, we came upon Caravan. India has had a long history of trade routes and journeys within the sub- continent as well as with the world at large. And caravans have been a big part of this. Ahmedabad in particular, situated in Gujarat, is at convergence of the trade routes over land and sea for several years. The word itself seemed to be brimming with possibilities and well encapsulated the tone in which we wanted to set a safe but challenging space for this edition of the LABS.
+A kervansaray would have big stables and storerooms for the animals and goods, a bathhouse, kitchens, prayer hall, etc. But the centre would be a courtyard—for people to talk, gossip, and tell stories.
 
-As a group together over the two weeks, we shared an open emergent journey, where we kept each other company while also being able to step away at times and venture on our own. The caravan had people staying on over the course of the entire journey and several others joining in at different points, similar to what happens in the caravans of lore.
+Rulers who wanted a good reputation—and the money that could be got from encouraging trade, which could be taxed—would build new kervansarays, or sponsor older ones. So a network of these buildings
+gradually grew, following the main trading routes from Anatolia through Iran into Central Asia. These were secure stopovers, guarded and locked at night. A merchant inside would be safe from robbers and wolves. They were fortified motels.
 
-_We built the format of the caravan as a space to take some time off, nascent ideas (or well-thought out ones) with each other and immerse deeply in the context around us._
-
-Like in any caravan, the only ask we had of participants was for them to come with an open heart and an open mind, and together we would make sure it is an adventure!
-This book is a small mirror to this journey we embarked on together; it has reflections from various participants on what they learnt, and what they seek to take back into their own worlds.
+It wouldn’t just be merchants either. There were people who were just interested in travel—like Ibn Battuta in the 14th century, or Evliya Çelebi in the 17th century, who left accounts of their travels. Or pilgrims—Christians heading to Jerusalem from Central Asia, or Muslims heading to Mecca, or, when it was safe, Buddhists heading between China, Tibet and India. Or missionaries—like the Franciscan friars sent out to China, Central Asia and India in the later 13th, early 14th centuries (John of Montecorvino was made Archbishop of Khanbalig (“King’s Town” = Peking) in the early 14th century). Or government agents—like the Chinese officials sent out to help run Persia in the C13/14, such as Bolad Chiensang, who told the great Persian minister and historian Rashid-al-Din about Chinese history
+and science, or the others who persuaded the Persian ruler in the 1280s to introduce paper money (the economy collapsed overnight). Or it might be scholars looking to study with experts across the region; or storytellers, artists, or slaves.
 
 <!-- ## Introduction
 
