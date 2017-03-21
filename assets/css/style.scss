@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+.p {
+	text-align: justify;
+  text-justify: inter-word;
+}
 .alignleft {
 	float: left;
 }
