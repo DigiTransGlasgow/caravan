@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div><p>The UnBox platform offers a space for experiential learning that builds on emerging contexts and cases of multidisciplinary, creative collaborations that are rooted in people-centric approaches.
+<div style="background-color: whitesmoke;"><p>The UnBox platform offers a space for experiential learning that builds on emerging contexts and cases of multidisciplinary, creative collaborations that are rooted in people-centric approaches.
 <br/>
 Incepted as an annual festival in India in 2011, and a fellowship programme since 2012, UnBox has prompted new thought and partnerships at the intersections of design, art, culture, social transformation and enterprise.
 <br/>
