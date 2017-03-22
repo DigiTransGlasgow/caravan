@@ -6,7 +6,7 @@ layout: default
 <br/>
 Incepted as an annual festival in India in 2011, and a fellowship programme since 2012, UnBox has prompted new thought and partnerships at the intersections of design, art, culture, social transformation and enterprise.
 <br/>
-The UnBox LABS provide a form of ‘controlled experiments’ - in harnessing ideas within collaborative, people- centered settings. We believe this approach to be essential for driving sustainable and inclusive resolutions to the complexities that our collective futures will throw up.
+The UnBox LABS provide a form of ‘controlled experiments’ - in harnessing ideas within collaborative, people-centered settings. We believe this approach to be essential for driving sustainable and inclusive resolutions to the complexities that our collective futures will throw up.
 <br/>
 The models of collaboration that the labs seek to fosters are new and experimental.</p></div>
 
@@ -16,7 +16,7 @@ _Angus Stewart_
 
 The English word Caravanserai, comes from a Turkish original, Kervansaray, which means “caravan-palace”. Strangely, the Turks call such a place a “khan”, not to be confused with the Mongol word “khan’ that means ‘king’.
 
-A kervansaray would be a place like a big walled castle for merchants.  In fact, archaeologists sometimes find it tricky to tell the two apart—as at Aqaba in Jordan, when it may be that the site shifted between kervansaray and Ottoman army fortress.
+A kervansaray would be a place like a big walled castle for merchants. In fact, archaeologists sometimes find it tricky to tell the two apart—as at Aqaba in Jordan, when it may be that the site shifted between kervansaray and Ottoman army fortress.
 
 A kervansaray would have big stables and storerooms for the animals and goods, a bathhouse, kitchens, prayer hall, etc. But the centre would be a courtyard—for people to talk, gossip, and tell stories.
 
